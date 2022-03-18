@@ -10,4 +10,4 @@ Here you will find things like:
 
 - FOSS only🐮🐧
 
-https://img.shields.io/badge/in%20love%20with-*NIX-orange?style=for-the-badge
+(https://img.shields.io/badge/in%20love%20with-*NIX-orange?style=for-the-badge)
